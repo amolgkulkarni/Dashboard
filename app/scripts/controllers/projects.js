@@ -8,10 +8,6 @@
  * Controller of the dashboardApp
  */
 angular.module('dashboardApp')
-  .controller('ProjectsCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('ProjectsCtrl', function ($scope, $state) {
+        //$state.transitionTo('projects.list');
   });
