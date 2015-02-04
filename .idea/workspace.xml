@@ -13,23 +13,23 @@
     <file path="/organizationView.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422863590581" ignored="false" />
     <file path="/Dummy.txt" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422868477895" ignored="false" />
     <file path="/organization.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422878590741" ignored="false" />
-    <file path="/organizationlist.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422947805632" ignored="false" />
+    <file path="/organizationlist.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1423026523392" ignored="false" />
     <file path="/organization.list.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422970046643" ignored="false" />
     <file path="/main.css" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422969350242" ignored="false" />
     <file path="/organization.view.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422881203867" ignored="false" />
     <file path="/organizationview.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422946470887" ignored="false" />
     <file path="$PROJECT_DIR$/../AngularTraining/Rohit/dashboard-ui-ui-router/app/scripts/app.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422882642086" ignored="false" />
     <file path="/resources.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422943232054" ignored="false" />
-    <file path="/organizations.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422946212894" ignored="false" />
+    <file path="/organizations.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1423031319656" ignored="false" />
     <file path="/organization.edit.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422946882222" ignored="false" />
-    <file path="/projects.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422957397825" ignored="false" />
+    <file path="/projects.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1423031331031" ignored="false" />
     <file path="/projectslist.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422948586983" ignored="false" />
     <file path="/projects.list.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422969968136" ignored="false" />
     <file path="$PROJECT_DIR$/.tmp/styles/main.css" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422950081830" ignored="false" />
     <file path="/projectview.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422952396902" ignored="false" />
     <file path="/project.view.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422953120757" ignored="false" />
     <file path="/projectedit.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422953043059" ignored="false" />
-    <file path="/project.edit.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422953802317" ignored="false" />
+    <file path="/project.edit.html" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1423028114110" ignored="false" />
     <file path="/dashboard.js" changelist="23a49443-1654-4a33-847b-3cc8db39c356" time="1422968519667" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,93 +50,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+      <file leaf-file-name="organizationlist.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/organizationlist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="4" selection-start="426" selection-end="426" vertical-scroll-proportion="-5.5">
+            <state line="12" column="8" selection-start="300" selection-end="543" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.css">
+      <file leaf-file-name="organizationview.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/organizationview.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4104" column="17" selection-start="81016" selection-end="81016" vertical-scroll-proportion="-4.6">
+            <state line="12" column="46" selection-start="339" selection-end="660" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <file leaf-file-name="organizationedit.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/organizationedit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+            <state line="22" column="10" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="organization.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/organization.html">
+      <file leaf-file-name="projects.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="31" column="16" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="organization.list.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/organization.list.html">
+      <file leaf-file-name="organizations.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/organizations.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="86" selection-start="225" selection-end="225" vertical-scroll-proportion="0.11022044">
+            <state line="45" column="30" selection-start="2106" selection-end="2106" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.list.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/projects.list.html">
+      <file leaf-file-name="organization.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/organization.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="77" selection-start="689" selection-end="689" vertical-scroll-proportion="-12.846154">
-              <folding>
-                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#div#2;tag#div#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="4" selection-start="100" selection-end="100" vertical-scroll-proportion="-6.8">
+            <state line="11" column="6" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/dashboard.html">
+      <file leaf-file-name="projectslist.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projectslist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="56" selection-start="1635" selection-end="1635" vertical-scroll-proportion="-16.961538">
+            <state line="11" column="10" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/dashboard.js">
+      <file leaf-file-name="projectview.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projectview.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="6" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
+            <state line="13" column="8" selection-start="329" selection-end="622" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/services/dashboard.js">
+      <file leaf-file-name="projectedit.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projectedit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="114" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+            <state line="18" column="16" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -152,15 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/scripts/controllers/projectview.js" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/projectedit.js" />
-        <option value="$PROJECT_DIR$/app/views/project.view.html" />
-        <option value="$PROJECT_DIR$/app/views/project.edit.html" />
-        <option value="$PROJECT_DIR$/app/scripts/services/projects.js" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/organization.js" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/projects.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
         <option value="$PROJECT_DIR$/app/scripts/services/dashboard.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/dashboard.js" />
         <option value="$PROJECT_DIR$/app/views/dashboard.html" />
@@ -168,6 +157,15 @@
         <option value="$PROJECT_DIR$/app/styles/main.css" />
         <option value="$PROJECT_DIR$/app/views/projects.list.html" />
         <option value="$PROJECT_DIR$/app/views/organization.list.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/organizationlist.js" />
+        <option value="$PROJECT_DIR$/app/views/project.edit.html" />
+        <option value="$PROJECT_DIR$/app/scripts/services/organizations.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/organizationview.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/organizationedit.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/projects.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/projectslist.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/projectview.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/projectedit.js" />
       </list>
     </option>
   </component>
@@ -482,25 +480,41 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/projects.list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="77" selection-start="689" selection-end="689" vertical-scroll-proportion="-12.846154">
+          <folding>
+            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#div#2;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/organization.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/organization.list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="86" selection-start="225" selection-end="225" vertical-scroll-proportion="15.923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/project.edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="111" selection-start="2218" selection-end="2218" vertical-scroll-proportion="-11.538462">
+        <state line="35" column="79" selection-start="1504" selection-end="1504" vertical-scroll-proportion="-14.192307">
           <folding>
             <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projectslist.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="50" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/projects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="57" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0">
+        <state line="21" column="6" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -508,6 +522,13 @@
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="10" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/organizationlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="8" selection-start="300" selection-end="543" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -521,79 +542,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/services/organizations.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="109" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0">
+        <state line="45" column="30" selection-start="2106" selection-end="2106" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/organizationedit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+        <state line="22" column="10" selection-start="705" selection-end="705" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/dashboard.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/projects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="114" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+        <state line="31" column="16" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/dashboard.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projectslist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="6" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
+        <state line="11" column="10" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/dashboard.html">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/organizationview.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="56" selection-start="1635" selection-end="1635" vertical-scroll-proportion="-16.961538">
+        <state line="12" column="46" selection-start="339" selection-end="660" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projectview.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="426" selection-end="426" vertical-scroll-proportion="-5.5">
+        <state line="13" column="8" selection-start="329" selection-end="622" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/dist/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/projectedit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4104" column="17" selection-start="81016" selection-end="81016" vertical-scroll-proportion="-4.6">
+        <state line="18" column="16" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="100" selection-end="100" vertical-scroll-proportion="-6.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/organization.html">
+    <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/projects.list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="77" selection-start="689" selection-end="689" vertical-scroll-proportion="-12.846154">
-          <folding>
-            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#div#2;tag#div#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/organization.list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="86" selection-start="225" selection-end="225" vertical-scroll-proportion="0.11022044">
           <folding />
         </state>
       </provider>
